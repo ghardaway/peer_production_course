@@ -1,5 +1,5 @@
 Grant Hardaway  
-INF385T - Peer Production
+INF385T - Peer Production  
 
 # Peer Production Participation Project: Experience Report
 
